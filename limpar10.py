@@ -3,4 +3,4 @@ def minha_funcao():
 if '_name_'=='_main_':
     print("este script esta sendo executado sozinho!")
 else:
-    print("este script foi importado!"
+    print("este script foi importado!")
